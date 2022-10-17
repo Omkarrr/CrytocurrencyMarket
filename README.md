@@ -10,6 +10,7 @@
 - [@Omkarrr](https://github.com/Omkarrr)
 - [@PrafulKadam21](https://github.com/PrafulKadam21)
 - [@suyash110214](https://github.com/suyash110214)
+- [@Tauhidhamdulay](https://github.com/Tauhidhamdulay)
 
 
 ## Features
